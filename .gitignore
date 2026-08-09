@@ -1,0 +1,8 @@
+.DS_Store
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Temporary files produced while saving plots
+.*.png-*
