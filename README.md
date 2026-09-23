@@ -1,4 +1,4 @@
-# EL-Based Tolerance Testing for Algorithm Fairness
+# Tolerance-Based Algorithm Fairness
 
 This repository contains the R code and data used to study empirical-likelihood (EL) based tolerance tests for algorithmic fairness. It includes theoretical rejection-probability calculations, single-test power simulations, multiple-testing simulations with Benjamini–Hochberg (BH) adjustment, and a COMPAS case study comparing EL, constrained EL (CEL), split EL (SEL), and adjusted split EL (ASEL) confidence intervals.
 
